@@ -1,3 +1,7 @@
+// https://youtu.be/KfP_LfUiwdc
+
+// Select Arduino nano / ATmega328P (Old Bootloader)
+
 #include <Servo.h>
 
 Servo armServo;
