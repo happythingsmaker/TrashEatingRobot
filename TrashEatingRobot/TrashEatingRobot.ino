@@ -5,7 +5,7 @@
 // paper version: https://youtu.be/3qnU8uD0utM
 
 // Documentation
-// https://sites.google.com/view/100happythings/18-Hungry-Robot
+// https://eunchan.me/Hungry-Robot-1bac36202aae469e806f882e0308ce18
 
 // Select Arduino nano / ATmega328P (Old Bootloader)
 
